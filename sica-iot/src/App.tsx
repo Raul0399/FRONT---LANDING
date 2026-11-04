@@ -192,7 +192,7 @@ export default function App() {
             Producción principal, materias primas, producto terminado, carga y descarga, y oficinas de control.
           </p>
           <div className="mt-8 border bg-white p-2">
-            <img src="/plano-nave.png" alt="Plano de la nave industrial con nodos IoT y extractores" className="w-full" />
+            <img src="/plano-nave.jpg" alt="Plano de la nave industrial con nodos IoT y extractores" className="w-full" />
           </div>
         </div>
       </section>
